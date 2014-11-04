@@ -15,7 +15,7 @@ Javascript.-Para modificar el contenido del div
 JSP.- Para mostrar la vista
 
 
-El proyecto puee ser descargado para importalo en algun eclipse y probar con la url http://localhost/SingletonThread/prueba.html
+El proyecto puede ser descargado para importalo en algun eclipse y probar con la url http://localhost/SingletonThread/prueba.html
 
 esto mostrara un reloj mas o menos asi
 
