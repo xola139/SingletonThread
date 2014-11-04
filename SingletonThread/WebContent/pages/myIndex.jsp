@@ -16,10 +16,8 @@
 <body
 	onload="dwr.engine.setActiveReverseAjax(true);hiloSingleton.arranca();">
 
-
-
-	<div id="divmensaje"></div>
+<div id="divmensaje"></div>
 
 
 </body>
-</html>
+</html>	
